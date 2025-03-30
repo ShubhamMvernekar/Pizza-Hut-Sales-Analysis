@@ -1,6 +1,3 @@
-Here's a **professional and visually appealing** `README.md` template that you can use for your **Pizza Hut Sales Analysis** project on GitHub. It includes placeholders for images and pictures that you can replace with actual images or links to images that you upload to your repository.
-
----
 
 # 🍕 **Pizza Hut Sales Analysis** 🍕
 
@@ -187,21 +184,3 @@ Contributions are always welcome! If you'd like to enhance this project, you can
 - Improve data wrangling techniques or the analysis process.
 
 Please fork this repository, create a branch, and submit a pull request. If you find any bugs or have suggestions, feel free to open an issue.
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
-
----
-
-### 🍕 Thank you for exploring **Pizza Hut Sales Analysis** 🍕
-
-We hope this project gives you valuable insights into Pizza Hut’s sales and provides ideas for optimizing business strategies. Enjoy your journey through the pizza data world! 😋
-
----
-
-### Notes:
-- **Replace the placeholder images** (e.g., `https://via.placeholder.com/600x300?text=Sales+Trend+Over+Time`) with your actual images or URLs that you upload to your repository.
-- You can upload images directly to GitHub by using the "Upload files" option in your repository, or by linking to external image sources.
-
-This **Pizza Hut Sales Analysis** README should now be visually attractive and well-structured. Let me know if you'd like further adjustments or need help with anything else!
